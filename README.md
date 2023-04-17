@@ -1,2 +1,3 @@
 # gamers-match
- Web App that connects gamers with matching styles so they can play together
+
+Web App (Frontend) that aims to connects gamers with matching styles and preferences so they can play together
